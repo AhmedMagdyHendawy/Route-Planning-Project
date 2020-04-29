@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.swp
 *.osm
 *.o
@@ -6,3 +7,37 @@ test.cpp
 build/
 bin/
 lib/
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 55ece2cef4c1469c004ecd8cf019e132e08fc2d8
